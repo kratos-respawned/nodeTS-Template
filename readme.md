@@ -7,7 +7,7 @@
 - To run the TypeScript files, use the command 'npm run dev'.
 - To compile the TypeScript files to JavaScript files, use the command 'npm run build'.
 - To run the JavaScript files, use the command 'npm run prod'.
--
+
 - When importing from TypeScript files, make sure to add .js in the import statements, but not required for node_modules.
 
 - ```jsx
