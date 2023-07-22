@@ -11,5 +11,6 @@
 - When importing from TypeScript files, make sure to add .js in the import statements, but not required for node_modules.
 
 - ```jsx
+  import fs from "fs"
   import { test } from "./test.js";
   ```
