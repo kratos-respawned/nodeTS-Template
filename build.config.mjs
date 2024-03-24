@@ -1,5 +1,4 @@
 import esbuild from "esbuild";
-
 /**
  * @typedef {esbuild.BuildOptions} BuildConfig
  */
